@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ethernet Switching.md",
+            "file": "Ethernet Switch.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethernet Switching.md",
+                "file": "Ethernet Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "afe753d5a2f61d4b",
   "lastOpenFiles": [
-    "Ethernet Switching.md",
-    "Physical Layer Terms.md",
-    "Physical Layer.md",
-    "Session Layer.md",
-    "Transport Layer.md",
-    "Presentation Layer.md",
-    "OSI Model.md",
+    "Ethernet Switch.md",
+    "Network Hub.md",
+    "Networking.md",
+    "Ethernet.md",
+    "Medium Access Control (MAC).md",
+    "Network Interface Card (NIC).md",
+    "Ethernet II frame.png",
     "Data-link Layer.md",
-    "Application Layer.md",
-    "Networking.md"
+    "Logical Link Control (LLC).md",
+    "Fiber-optic cabling.md"
   ]
 }
