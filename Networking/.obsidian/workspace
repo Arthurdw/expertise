@@ -7,12 +7,8 @@
         "id": "afe753d5a2f61d4b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Client-Server Network.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Client-Server Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "afe753d5a2f61d4b",
   "lastOpenFiles": [
-    "Client-Server Network.md",
-    "Coax Cable.md",
-    "Copper cabling.md",
-    "Ethernet.md",
-    "Ethernet II frame.png",
-    "Ethernet Switch.md",
-    "Fiber-optic cabling.md",
-    "Extranet.md",
+    "Cellular.md",
+    "Wireless media.md",
+    "Wi-Fi.md",
+    "Carrier Sense Multiple Access or Collision Avoidance (CSMA or CA).md",
+    "Carrier Sense Multiple Access/Collision Avoidance CSMA/CA.md",
+    "Carrier Sense Multiple Access / Collision Avoidance CSMA/CA.md",
     "Institute of Electrical and Electronics Engineerds (IEEE).md",
-    "Intranet.md"
+    "Ethernet.md",
+    "Types of networks.md",
+    "Peer to Peer (P2P).md"
   ]
 }

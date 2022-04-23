@@ -4,7 +4,7 @@ Ethernet runs on the [[Physical Layer]], it is a protocol which is commonly used
 The physical topology of an network is a star network. This means that the devices are connected to an [[Ethernet Switch]] or [[Network Hub]].
 
 ## Standards
-- [[Institute of Electrical and Electronics Engineerds (IEEE)]] 802.3 & 802.2 Ethernet
+- [[Institute of Electrical and Electronics Engineerds (IEEE)|IEEE]] 802.3 & 802.2 Ethernet
 
 ### 802.2
 Top part layer of the data link layer *([[Logical Link Control (LLC)]])*
