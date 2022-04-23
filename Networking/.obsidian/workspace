@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ethernet Switch.md",
+            "file": "Client-Server Network.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336,
-    "collapsed": true
+    "width": 336
   },
   "right": {
     "id": "f3fb9006c24f153d",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethernet Switch.md",
+                "file": "Client-Server Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "afe753d5a2f61d4b",
   "lastOpenFiles": [
-    "Ethernet Switch.md",
-    "Network Hub.md",
-    "Networking.md",
+    "Client-Server Network.md",
+    "Coax Cable.md",
+    "Copper cabling.md",
     "Ethernet.md",
-    "Medium Access Control (MAC).md",
-    "Network Interface Card (NIC).md",
     "Ethernet II frame.png",
-    "Data-link Layer.md",
-    "Logical Link Control (LLC).md",
-    "Fiber-optic cabling.md"
+    "Ethernet Switch.md",
+    "Fiber-optic cabling.md",
+    "Extranet.md",
+    "Institute of Electrical and Electronics Engineerds (IEEE).md",
+    "Intranet.md"
   ]
 }
