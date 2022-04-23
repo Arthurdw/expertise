@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Ethernet II frame.png",
+      "basename": "Ethernet II frame",
+      "relativePath": "Ethernet II frame.png"
+    },
+    {
+      "name": "Ethernet cable notation.png",
+      "basename": "Ethernet cable notation",
+      "relativePath": "Ethernet cable notation.png"
+    },
+    {
+      "name": "T568A and T568B.png",
+      "basename": "T568A and T568B",
+      "relativePath": "T568A and T568B.png"
+    },
+    {
+      "name": "Types of shielding.png",
+      "basename": "Types of shielding",
+      "relativePath": "Types of shielding.png"
+    }
+  ]
+}
