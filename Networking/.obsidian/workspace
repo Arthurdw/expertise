@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fiber-optic cabling.md",
+            "file": "Ethernet Switching.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiber-optic cabling.md",
+                "file": "Ethernet Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "afe753d5a2f61d4b",
   "lastOpenFiles": [
-    "Fiber-optic cabling.md",
-    "Networking.md",
-    "Coax Cable.md",
-    "Copper cabling.md",
-    "Shielded Twisted Pair (STP).md",
-    "Types of shielding.png",
-    "Unshielded Twisted Pair (UTP).md",
+    "Ethernet Switching.md",
+    "Physical Layer Terms.md",
     "Physical Layer.md",
-    "T568A and T568B.png",
-    "Commonly used network transmission media.md"
+    "Session Layer.md",
+    "Transport Layer.md",
+    "Presentation Layer.md",
+    "OSI Model.md",
+    "Data-link Layer.md",
+    "Application Layer.md",
+    "Networking.md"
   ]
 }
