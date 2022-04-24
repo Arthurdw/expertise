@@ -91,13 +91,14 @@
   "active": "5cb551ad435d08ed",
   "lastOpenFiles": [
     "Networking/IPv4.md",
-    "IPv4 format.png",
-    "Networking/IPv6.md",
-    "Networking/Network Layer.md",
-    "Networking/Data-link Layer.md",
-    "Networking/OSI Model.md",
+    "Networking/Internet Control Message Protocol (ICMP).md",
+    "Networking/Address Resolution Protocol (ARP).md",
+    "Networking/Medium Access Control (MAC).md",
     "Networking/Physical Layer.md",
-    "Networking/Networking.md",
-    "Untitled.md"
+    "Networking/Physical Layer Terms.md",
+    "Networking/Peer to Peer (P2P).md",
+    "Networking/OSI Model.md",
+    "Networking/Network Interface Card (NIC).md",
+    "Networking/Network Hub.md"
   ]
 }

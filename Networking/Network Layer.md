@@ -8,6 +8,7 @@ The forwarding of packets is done via **routers**.
 - Best effort
 - Media independent
 
-### Important versions
+### Important protocols
 - [[IPv4]]
 - [[IPv6]]
+- [[Internet Control Message Protocol (ICMP)]] 

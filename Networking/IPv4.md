@@ -11,18 +11,19 @@ Class | Subnet mask   | CIDR | Hosts
 A     | 255.0.0.0     | 8    | 16 777 216
 B     | 255.255.0.0   | 16   | 65 536
 C     | 255.255.255.0 | 24   | 256
-
-
 ## Special addresses
 ### IP
 Name              | Address                                 | Description
 :-:               | :-:                                     | :-
 Network address   | 0000 0000.0000 0000.0000 0000.0000 0000 | Sets all bytes to 0.
 Broadcast address | 1111 1111.1111 1111.1111 1111.1111 1111 | Sets all bytes to 1.
-
 ### Subnet 
-Name             | Subnet mask
-:-:              | :-
-Loopback address | 127.0.0.0
+Name                         | Address     | CIDR
+:-:                          | :-:         | :-
+Loopback address             | 127.0.0.0   | 8
+Link-local address *(APIPA)* | 169.254.0.0 | 16
+Muticast address             | 224.0.0.0   | 4
+
+
 
 

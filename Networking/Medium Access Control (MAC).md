@@ -4,6 +4,7 @@
 - Typically represented in hexadecimal form
 - Also referred to as the **Burned-in-address (BIA)**
 - Can be generated/spoofed with software
+- Uses [[Address Resolution Protocol (ARP)]] for [[IPv4]] and [[Internet Control Message Protocol (ICMP)#Neighbor Discovery Protocol NDP ND|ICMPv6 Neighbor Discovery Protocol (NDP/ND)]] for [[IPv6]]
 
 ## Notations
 Notation | notation
