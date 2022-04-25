@@ -13,7 +13,7 @@
 - Signal interference
 
 ## Colors
-UTP threads consist of 4 pairs of different colors. Each pair has the primary color and a primary with white stripe.
+Threads consist of 4 pairs of different colors. Each pair has the primary color and a primary with white stripe.
 
 ### Pairs
 - **Pair 1**: Blue

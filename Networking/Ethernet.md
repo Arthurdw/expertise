@@ -23,9 +23,11 @@ Physical layer and lower part layer of the [[Data-link Layer]]. ([[Medium Access
 
 The **destination address** comes **first** so that your [[Network Interface Card (NIC)]] can drop frames where the Destination address does't match its own [[Medium Access Control (MAC)]] address. *(Unless promiscuous mode is enabled, this allows you to snif the network, eg in [[Wireshark]])*
 
+The destination and source address change for every hop, as this is is only for inner network targetting and not for the packet destination/source.
+
 Section             | Description
 :-:                 | :-
-Preamble            | A fixed pattern on which the [[Network Interface Card (NIC)]] listens so that it knows when a new frame starts, which it drops.
+Preamble            | A fixed pattern on which the [[Network Interface Card (NIC)]] listens so that it knows when a new frame starts. It removes these 8 bytes from the packet before passing it through.
 Destination address | The [[Medium Access Control (MAC)]] address of the frame target.
 Source address      | The [[Medium Access Control (MAC)]] address of frame source. *(where it originates from)*
 Type                | 2 bytes that indicate what protocol is embedded in the data part of the frame.

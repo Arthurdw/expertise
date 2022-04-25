@@ -2,7 +2,7 @@
 ## Mobile Network Operator (MNO)
 - Licensed to operate radio base stations
 - Owns a part of a [[Wireless media#^5a686b|licensed spectrum]]
-## Mobile Virtual Network Operator
+## Mobile Virtual Network Operator (MVNO)
 - No cell towers of its own *(hires from [[Cellular#Mobile Network Operator MNO|MNO]])*
 ### Full
 - Has their own core network

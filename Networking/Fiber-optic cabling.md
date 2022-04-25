@@ -26,6 +26,8 @@ Allows multiple paths of light.
 #### Advantages
 - Cheaper
 - Allows multiple paths
+#### Disadvantages
+- Smaller distances that SMF
 
 ## Connectivity
 Fiber cables require a **SFP (Small Factor Pluggable)** in order to connect with a switch. This is a hot pluggable network interface module. This allows you to connect any fiber tranceiver to your device/[[Network Interface Card (NIC)]].
