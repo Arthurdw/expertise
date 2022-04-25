@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb551ad435d08ed",
+        "id": "f5a7ffb6f5c36870",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Networking/Transmission Control Protocol (TCP).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duplex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Networking/Transmission Control Protocol (TCP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cb551ad435d08ed",
+  "active": "f5a7ffb6f5c36870",
   "lastOpenFiles": [
+    "Networking/Transmission Control Protocol (TCP).md",
+    "Networking/4-way handshake.png",
+    "Networking/3way handshake.png",
+    "README.md",
+    "Networking/User Datagram Protocol (UDP).md",
+    "Networking/Ethernet Switch.md",
+    "Networking/Transport Layer.md",
+    "Networking/Copper cabling.md",
     "Networking/Carrier Sense Multiple Access or Collision Avoidance (CSMA or CA).md",
-    "Networking/Networking.md",
-    "Networking/Ethernet.md",
-    "Networking/OSI Model.md",
-    "Networking/Network Layer.md",
-    "Networking/Internet Control Message Protocol (ICMP).md",
-    "Networking/IPv6.md",
-    "Networking/IPv4.md",
-    "Networking/Data-link Layer.md",
-    "Networking/Medium Access Control (MAC).md"
+    "Networking/Networking.md"
   ]
 }
