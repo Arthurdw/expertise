@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a7ffb6f5c36870",
+        "id": "64261299903e3130",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking/Transmission Control Protocol (TCP).md",
+            "file": "Networking/IPv6.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duplex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Transmission Control Protocol (TCP).md",
+                "file": "Networking/IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,25 +81,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c923297d9f53c00b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f5a7ffb6f5c36870",
+  "active": "64261299903e3130",
   "lastOpenFiles": [
+    "Networking/IPv6.md",
+    "Networking/IPv4.md",
+    "Home.md",
     "Networking/Transmission Control Protocol (TCP).md",
     "Networking/4-way handshake.png",
     "Networking/3way handshake.png",
     "README.md",
     "Networking/User Datagram Protocol (UDP).md",
     "Networking/Ethernet Switch.md",
-    "Networking/Transport Layer.md",
-    "Networking/Copper cabling.md",
-    "Networking/Carrier Sense Multiple Access or Collision Avoidance (CSMA or CA).md",
-    "Networking/Networking.md"
+    "Networking/Transport Layer.md"
   ]
 }

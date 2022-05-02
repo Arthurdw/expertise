@@ -17,6 +17,9 @@ Name              | Address                                 | Description
 :-:               | :-:                                     | :-
 Network address   | 0000 0000.0000 0000.0000 0000.0000 0000 | Sets all bytes to 0.
 Broadcast address | 1111 1111.1111 1111.1111 1111.1111 1111 | Sets all bytes to 1.
+
+^e59963
+
 ### Subnet 
 Name                         | Address     | CIDR
 :-:                          | :-:         | :-
