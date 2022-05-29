@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "64261299903e3130",
+        "id": "40a7ff451bf56ad4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a9f0f8f0013848a7",
@@ -90,25 +89,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "64261299903e3130",
+  "active": "40a7ff451bf56ad4",
   "lastOpenFiles": [
     "Networking/IPv6.md",
-    "Networking/IPv4.md",
     "Home.md",
-    "Networking/Transmission Control Protocol (TCP).md",
-    "Networking/4-way handshake.png",
-    "Networking/3way handshake.png",
+    "Networking/Domain Name System (DNS).md",
+    "Networking/Network Layer.md",
+    "Networking/IPv4.md",
+    "Networking/Dynamic Host Configuration Protocol (DHCP).md",
+    "Networking/Networking.md",
+    "Networking/Ethernet.md",
     "README.md",
-    "Networking/User Datagram Protocol (UDP).md",
-    "Networking/Ethernet Switch.md",
-    "Networking/Transport Layer.md"
+    "Networking/DHCP DORA.png"
   ]
 }

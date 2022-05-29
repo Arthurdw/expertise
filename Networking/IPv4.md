@@ -27,6 +27,8 @@ Loopback address             | 127.0.0.0   | 8
 Link-local address *(APIPA)* | 169.254.0.0 | 16
 Muticast address             | 224.0.0.0   | 4
 
+^8d0375
+
 
 
 

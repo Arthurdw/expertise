@@ -16,3 +16,5 @@
 ## Network infrastructure
 - [[OSI Model]]
 - [[Ethernet]]
+- [[Dynamic Host Configuration Protocol (DHCP)]]
+- [[Domain Name System (DNS)]]
