@@ -1,6 +1,6 @@
 # IP version 4
 - Most common today
-- 4 byte *(32 bit)* address *(only 4 billion addresses -> scarcity, resolved by [[NAT]])*
+- 4 byte *(32 bit)* address *(only 4 billion addresses -> scarcity, resolved by [[Network Address Translation (NAT)|NAT]])*
 ## Format
 ![[IPv4 format.png]]
 ## Subnet mask

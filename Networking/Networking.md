@@ -18,3 +18,4 @@
 - [[Ethernet]]
 - [[Dynamic Host Configuration Protocol (DHCP)]]
 - [[Domain Name System (DNS)]]
+- [[Virtual LAN (VLAN)]]
